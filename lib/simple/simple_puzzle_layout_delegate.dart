@@ -62,7 +62,7 @@ class SimplePuzzleLayoutDelegate extends PuzzleLayoutDelegate {
           width: 184,
           height: 118,
           child: Image.asset(
-            'assets/images/simple_dash_small.png',
+            'assets/images/jetpacktocat.png',
             key: const Key('simple_puzzle_dash_small'),
           ),
         ),
@@ -70,7 +70,7 @@ class SimplePuzzleLayoutDelegate extends PuzzleLayoutDelegate {
           width: 380.44,
           height: 214,
           child: Image.asset(
-            'assets/images/simple_dash_medium.png',
+            'assets/images/jetpacktocat.png',
             key: const Key('simple_puzzle_dash_medium'),
           ),
         ),
@@ -80,7 +80,7 @@ class SimplePuzzleLayoutDelegate extends PuzzleLayoutDelegate {
             width: 568.99,
             height: 320,
             child: Image.asset(
-              'assets/images/simple_dash_large.png',
+              'assets/images/jetpacktocat.png',
               key: const Key('simple_puzzle_dash_large'),
             ),
           ),
