@@ -115,15 +115,15 @@ class _AppState extends State<App> {
         context,
       );
       precacheImage(
-        Image.asset('assets/images/simple_dash_large.png').image,
+        Image.asset('assets/images/jetpacktocat.png').image,
         context,
       );
       precacheImage(
-        Image.asset('assets/images/simple_dash_medium.png').image,
+        Image.asset('assets/images/jetpacktocat.png').image,
         context,
       );
       precacheImage(
-        Image.asset('assets/images/simple_dash_small.png').image,
+        Image.asset('assets/images/jetpacktocat.png').image,
         context,
       );
       precacheImage(
